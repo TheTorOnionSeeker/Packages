@@ -1,0 +1,32 @@
+{
+    "packages":[
+        {
+            "destination":"Bariloche",
+            "price":"$85000",
+            "services":["Bus coche cama","Hotel plaza con media pensión"],
+            "activities":{"Excursiones":["Circuito Chico", "Base del Cerro Catedral","Circuito Tres Lagos"]},
+            "duration":"Cinco noches"
+           },
+           {
+            "destination":"Camboriu",
+            "price":"U$D 285",
+            "services":["Bus coche cama"],
+            "activities":{"Alojamiento":"", "Turismo y atracciones":""},
+            "duration":""
+           },
+           {
+            "destination":"Jujuy",
+            "price":"$28000",
+            "services":["Bus coche cama","Hotel plaza Isella con desayuno, almuerzo o cena, media pensión"],
+            "activities":{"Excursiones":["Purmamarca Cerro 7 Colores", "Grandes Salinas(opcional a cargo del pasajero)","Virgen del Cerro", "Paseo de los Artesanos", "Teleféricos, Peñas y mucho más"]},
+            "duration":"Tres noches"
+           },
+           {
+            "destination":"Mendoza",
+            "price":"$65900",
+            "services":["Bus coche cama","Hotel Bechia Roma media pensión"],
+            "activities":{"Excursiones":["City Tour Ciudad de Mendoza", "Bodegas","Fábrica de chocolates", "Guía permanente", {"Opcionales":["Altas Montañas", "San Rafael","Cañón de Atuel","Termas de Cacheuta"]}]},
+            "duration":"Ocho días, cinco noches"
+           }
+    ]
+}
