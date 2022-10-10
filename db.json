@@ -11,8 +11,8 @@
            {
             "destination":"Camboriu",
             "price":"U$D 285",
-            "services":["Bus coche cama"],
-            "activities":{"Alojamiento":"", "Turismo y atracciones":""},
+            "services":["Bus coche cama", "Alojamiento"],
+            "activities":{"Excursiones":["Turismo y atracciones"]},
             "duration":"",
             "id":"2"
            },
@@ -28,7 +28,7 @@
             "destination":"Mendoza",
             "price":"$65900",
             "services":["Bus coche cama","Hotel Bechia Roma media pensión"],
-            "activities":{"Excursiones":["City Tour Ciudad de Mendoza", "Bodegas","Fábrica de chocolates", "Guía permanente", {"Opcionales":["Altas Montañas", "San Rafael","Cañón de Atuel","Termas de Cacheuta"]}]},
+            "activities":{"Excursiones":["City Tour Ciudad de Mendoza", "Bodegas","Fábrica de chocolates", "Guía permanente", "Opcionales: Altas Montañas, San Rafael, Cañón de Atuel, Termas de Cacheuta"]},
             "duration":"Ocho días, cinco noches",
             "id":"4"
            }
