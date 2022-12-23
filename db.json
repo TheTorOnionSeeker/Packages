@@ -1,12 +1,20 @@
 {
     "packages":[
            {
+            "destination":"Bolivia. Tour de compras",
+            "price":"",
+            "services":["Bus coche cama"],
+            "activities":{"Excursiones":["Tour de compras"]},
+            "duration":"",
+            "id":"1"
+           },
+           {
             "destination":"Florianopolis",
             "price":"",
             "services":["Hotel con desayuno y cena"],
             "activities":{"Excursiones":["Playas"]},
             "duration":"Siete días, cinco noches",
-            "id":"1"
+            "id":"2"
            },
            {
             "destination":"Camboriu",
@@ -14,7 +22,7 @@
             "services":["Bus coche cama", "Alojamiento"],
             "activities":{"Excursiones":["Turismo y atracciones"]},
             "duration":"",
-            "id":"2"
+            "id":"3"
            },
            {
             "destination":"Bariloche",
@@ -22,7 +30,7 @@
             "services":["Bus coche cama","Hotel plaza con media pensión"],
             "activities":{"Excursiones":["Circuito Chico", "Base del Cerro Catedral","Circuito Tres Lagos"]},
             "duration":"Cinco noches",
-            "id":"3"
+            "id":"4"
            },
            {
             "destination":"Jujuy",
@@ -30,7 +38,7 @@
             "services":["Bus coche cama","Hotel plaza Isella con desayuno, almuerzo o cena, media pensión"],
             "activities":{"Excursiones":["Purmamarca Cerro 7 Colores", "Grandes Salinas(opcional a cargo del pasajero)","Virgen del Cerro", "Paseo de los Artesanos", "Teleféricos, Peñas y mucho más"]},
             "duration":"Tres noches",
-            "id":"4"
+            "id":"5"
            },
            {
             "destination":"Mendoza",
@@ -38,7 +46,7 @@
             "services":["Bus coche cama","Hotel Bechia Roma media pensión"],
             "activities":{"Excursiones":["City Tour Ciudad de Mendoza", "Bodegas","Fábrica de chocolates", "Guía permanente", "Opcionales: Altas Montañas, San Rafael, Cañón de Atuel, Termas de Cacheuta"]},
             "duration":"Ocho días, cinco noches",
-            "id":"5"
+            "id":"6"
            }
     ]
 }
